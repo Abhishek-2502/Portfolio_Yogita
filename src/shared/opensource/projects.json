@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "id": "Microplastics-Segregation",
+      "name": "Microplastics-Segregation",
+      "createdAt": "2024-05-05T00:00:00Z",
+      "url": "https://github.com/YogitaBeniwal/Microplastics-Segregation",
+      "description": "Our project detects and classifies microplastics on the basis of type and color and also shows the count of microplastics in a given image. Our project is based in YOLOv8 model framework: pytorch.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "Social-Media-Platform",
+      "name": "Social-Media-Platform",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "https://github.com/YogitaBeniwal/Social-Media-Platform",
+      "description": "Social Media Platform",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "JAVA",
+          "iconifyClass": "logos-java"
+        }
+      ]
+    },
+    {
+      "id": "Microplastics-Segregation",
+      "name": "Microplastics-Segregation",
+      "createdAt": "2024-05-05T00:00:00Z",
+      "url": "https://github.com/YogitaBeniwal/Microplastics-Segregation",
+      "description": "Our project detects and classifies microplastics on the basis of type and color and also shows the count of microplastics in a given image. Our project is based in YOLOv8 model framework: pytorch.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "Social-Media-Platform",
+      "name": "Social-Media-Platform",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "https://github.com/YogitaBeniwal/Social-Media-Platform",
+      "description": "Social Media Platform",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "JAVA",
+          "iconifyClass": "logos-java"
+        }
+      ]
+    },
+    {
+      "id": "Microplastics-Segregation",
+      "name": "Microplastics-Segregation",
+      "createdAt": "2024-05-05T00:00:00Z",
+      "url": "https://github.com/YogitaBeniwal/Microplastics-Segregation",
+      "description": "Our project detects and classifies microplastics on the basis of type and color and also shows the count of microplastics in a given image. Our project is based in YOLOv8 model framework: pytorch.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "description": "I have aquired knowledge from my studies, internships and skilled in event management as a volunteer. As I am a undergraduate student I havent had experience in any professional work.",
+  "header_image_path": "experience.jpg",
+  "sections": [
+    {
+      "title": "Work",
+      "experiences": [
+        {
+          "title": "Undergraduate Student",
+          "company": "Symbiosis International University",
+          "company_url": "https://siu.edu.in/",
+          "logo_path": "symbi_logo.png",
+          "duration": "November 2024 - Present",
+          "location": "Pune, Maharashtra, India",
+          "description": "Improving my skills set and excelling in academics.",
+          "color": "#000000"
+        }
+      ]
+    },
+    {
+      "title": "Internships",
+      "experiences": [
+        {
+          "title": "Java Intern",
+          "company": "",
+          "company_url": "",
+          "logo_path": "",
+          "duration": "May 2022 - Aug 2022",
+          "location": "Pune, Mharashtra",
+          "description": "Build website using Java server pages.",
+          "color": "#000000"
+        },
+        {
+          "title": "Machine Learning Intern",
+          "company": "Upskill Edutech Private Limited",
+          "company_url": "https://www.upskilledutech.com/",
+          "logo_path": "upskill_logo.png",
+          "duration": "April 2022 - June 2022",
+          "location": "Work from Home",
+          "description": "I have learnt basic concepts of Machine Learning",
+          "color": "#ee3c26"
+        },
+        {
+          "title": "Upcoming BMC Software Intern",
+          "company": "BMC Software Private Limited",
+          "company_url": "https://www.bmc.com/",
+          "logo_path": "bmc_logo.jpg",
+          "duration": "Jan 2024 - July 2024",
+          "location": "Work From Home",
+          "description": "BMC Software, Inc. is an American multinational information technology (IT) services and consulting, and enterprise software company.",
+          "color": "#0071C5"
+        }
+      ]
+    },
+    {
+      "title": "Volunteerships",
+      "experiences": [
+        {
+          "title": "Symbiosis Institute of Technology",
+          "company": "SIT",
+          "company_url": "https://siu.edu.in/",
+          "logo_path": "symbi_logo.png",
+          "duration": "2024",
+          "location": "Pune, Maharashtra",
+          "description": "Volunteering at Symbiosis events like SymbiTech, Prota, etc.",
+          "color": "#4285F4"
+        }
+      ]
+    }
+  ],
+  "subtitle": "Work, Internship and Volunteership",
+  "title": "Experience"
+}
